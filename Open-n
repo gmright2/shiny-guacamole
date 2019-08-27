@@ -1,0 +1,8 @@
+data class SomeData(
+
+val intValue: Int,
+
+val strValue: String = "default value"
+
+)
+
